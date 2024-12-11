@@ -1,5 +1,4 @@
-# Face_recognizer
-This project is to recongize face and is bootstrapped and used html,css,javacsript to biuld it
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
